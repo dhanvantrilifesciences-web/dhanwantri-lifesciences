@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Dhanwantri Lifesciences | PCD Pharma Company in Baddi</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Dhanwantri Lifesciences - Leading PCD Pharma Franchise Company in Baddi offering high quality medicines and monopoly rights.">
+    
+    <style>
+        body {font-family: Arial; margin:0;}
+        header {background:#0a7f5a; color:white; padding:15px; text-align:center;}
+        nav {background:#333; padding:10px; text-align:center;}
+        nav a {color:white; margin:10px; text-decoration:none;}
+        section {padding:20px;}
+        .btn {background:#25D366; color:white; padding:12px 18px; text-decoration:none; border-radius:5px;}
+        .box {background:#f4f4f4; padding:15px; margin:10px 0;}
+        footer {background:#0a7f5a; color:white; text-align:center; padding:10px;}
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Dhanwantri Lifesciences</h1>
+    <p>PCD Pharma Franchise Company | Baddi, Himachal Pradesh</p>
+</header>
+
+<nav>
+    <a href="#">Home</a>
+    <a href="#about">About</a>
+    <a href="#products">Products</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section>
+    <h2>Welcome to Dhanwantri Lifesciences</h2>
+    <p>We provide high-quality PCD pharma franchise services across India with monopoly rights and attractive margins.</p>
+    
+    <a class="btn" href="https://wa.me/919478354949">💬 WhatsApp Now</a>
+</section>
+
+<section id="about">
+    <h2>About Us</h2>
+    <div class="box">
+    <p>Dhanwantri Lifesciences is a trusted PCD Pharma company based in Baddi, Himachal Pradesh. 
+    We offer a wide range of pharmaceutical products manufactured through certified third-party units.</p>
+    </div>
+</section>
+
+<section id="products">
+    <h2>Our Product Range</h2>
+    <ul>
+        <li>Tablets & Capsules</li>
+        <li>Syrups & Suspensions</li>
+        <li>Injectables</li>
+        <li>Protein Powder</li>
+        <li>Derma Range</li>
+        <li>Pediatric Range</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact Us</h2>
+    <p><b>📍 Location:</b> Baddi, Himachal Pradesh</p>
+    <p><b>📞 Phone:</b> +91 9646600112</p>
+    <p><b>📧 Email:</b> Dhanvantrilifesciences@gmail.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Dhanwantri Lifesciences | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>
